@@ -227,3 +227,5 @@ def mostrar_telefono(message):
 if __name__ == '__main__':
     print('Iniciando Bot')
     bot.infinity_polling()
+
+# codigo creado por EmmanuelChacon-ve
